@@ -1,1 +1,1 @@
-# Inform-tica-uni
+# Informatica-uni
